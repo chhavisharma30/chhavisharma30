@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ChhaviSharma.
+- 👋 Hi, I’m Chhavi Sharma.
 - 👀 I’m interested in android development and artificial intelligence.
 - 🌱 I’m currently working on competitive coding.
 - 📫 You can reach me at chhavisharma3007@gmail.com
