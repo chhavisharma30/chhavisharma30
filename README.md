@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chhavi Sharma</h1>
 <h3 align="center">An android development enthusiast and competitive coder</h3>
 
-- 🌱 I’m currently learning **Blockchain and Data Mining**
-
 - 👨‍💻 All of my projects are available at [https://github.com/chhavisharma30?tab=repositories](https://github.com/chhavisharma30?tab=repositories)
 
 - 📫 How to reach me **chhavisharma3007@gmail.com**
