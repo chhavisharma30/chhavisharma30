@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chhavi Sharma </h1>
+<h1 align="center">Hi 👋, I'm Chhavi Sharma</h1>
 <h3 align="center">An android development enthusiast and competitive coder</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/chhavisharma30?tab=repositories](https://github.com/chhavisharma30?tab=repositories)
